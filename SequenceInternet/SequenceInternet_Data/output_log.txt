@@ -1,0 +1,483 @@
+Initialize engine version: 5.4.1f1 (649f48bbbf0f)
+GfxDevice: creating device client; threaded=1
+Direct3D:
+    Version:  Direct3D 11.0 [level 11.0]
+    Renderer: Intel(R) HD Graphics 630 (ID=0x5912)
+    Vendor:   Intel
+    VRAM:     4194 MB
+Begin MonoManager ReloadAssembly
+Platform assembly: C:\Users\aalch040\Downloads\SequenceInternet\SequenceInternet_Data\Managed\UnityEngine.dll (this message is harmless)
+Loading C:\Users\aalch040\Downloads\SequenceInternet\SequenceInternet_Data\Managed\UnityEngine.dll into Unity Child Domain
+Platform assembly: C:\Users\aalch040\Downloads\SequenceInternet\SequenceInternet_Data\Managed\Assembly-CSharp-firstpass.dll (this message is harmless)
+Loading C:\Users\aalch040\Downloads\SequenceInternet\SequenceInternet_Data\Managed\Assembly-CSharp-firstpass.dll into Unity Child Domain
+Platform assembly: C:\Users\aalch040\Downloads\SequenceInternet\SequenceInternet_Data\Managed\Assembly-CSharp.dll (this message is harmless)
+Loading C:\Users\aalch040\Downloads\SequenceInternet\SequenceInternet_Data\Managed\Assembly-CSharp.dll into Unity Child Domain
+Platform assembly: C:\Users\aalch040\Downloads\SequenceInternet\SequenceInternet_Data\Managed\UnityEngine.UI.dll (this message is harmless)
+Loading C:\Users\aalch040\Downloads\SequenceInternet\SequenceInternet_Data\Managed\UnityEngine.UI.dll into Unity Child Domain
+Platform assembly: C:\Users\aalch040\Downloads\SequenceInternet\SequenceInternet_Data\Managed\UnityEngine.Networking.dll (this message is harmless)
+Loading C:\Users\aalch040\Downloads\SequenceInternet\SequenceInternet_Data\Managed\UnityEngine.Networking.dll into Unity Child Domain
+Platform assembly: C:\Users\aalch040\Downloads\SequenceInternet\SequenceInternet_Data\Managed\Photon3Unity3D.dll (this message is harmless)
+Loading C:\Users\aalch040\Downloads\SequenceInternet\SequenceInternet_Data\Managed\Photon3Unity3D.dll into Unity Child Domain
+- Completed reload, in  0.158 seconds
+Platform assembly: C:\Users\aalch040\Downloads\SequenceInternet\SequenceInternet_Data\Managed\System.Core.dll (this message is harmless)
+Platform assembly: C:\Users\aalch040\Downloads\SequenceInternet\SequenceInternet_Data\Managed\System.dll (this message is harmless)
+OnLevelWasLoaded was found on PhotonHandler
+This message has been deprecated and will be removed in a later version of Unity.
+Add a delegate to SceneManager.sceneLoaded instead to get notifications after scene loading has completed
+ 
+(Filename:  Line: 375)
+
+desktop: 1680x1050 60Hz; virtual: 1680x1050 at 0,0
+<RI> Initializing input.
+XInput1_3.dll not found. Trying XInput9_1_0.dll instead...
+<RI> Input initialized.
+<RI> Initialized touch support.
+UnloadTime: 27.537010 ms
+Setting up 2 worker threads for Enlighten.
+  Thread -> id: 2174 -> priority: 1 
+  Thread -> id: 1ed4 -> priority: 1 
+Room
+ 
+(Filename: C:/buildslave/unity/build/artifacts/generated/common/runtime/UnityEngineDebugBindings.gen.cpp Line: 42)
+
+Initialize engine version: 5.4.1f1 (649f48bbbf0f)
+GfxDevice: creating device client; threaded=1
+Direct3D:
+    Version:  Direct3D 11.0 [level 11.0]
+    Renderer: Intel(R) HD Graphics 630 (ID=0x5912)
+    Vendor:   Intel
+    VRAM:     4194 MB
+Begin MonoManager ReloadAssembly
+Platform assembly: C:\Users\aalch040\Downloads\SequenceInternet\SequenceInternet_Data\Managed\UnityEngine.dll (this message is harmless)
+Loading C:\Users\aalch040\Downloads\SequenceInternet\SequenceInternet_Data\Managed\UnityEngine.dll into Unity Child Domain
+Platform assembly: C:\Users\aalch040\Downloads\SequenceInternet\SequenceInternet_Data\Managed\Assembly-CSharp-firstpass.dll (this message is harmless)
+Loading C:\Users\aalch040\Downloads\SequenceInternet\SequenceInternet_Data\Managed\Assembly-CSharp-firstpass.dll into Unity Child Domain
+Platform assembly: C:\Users\aalch040\Downloads\SequenceInternet\SequenceInternet_Data\Managed\Assembly-CSharp.dll (this message is harmless)
+Loading C:\Users\aalch040\Downloads\SequenceInternet\SequenceInternet_Data\Managed\Assembly-CSharp.dll into Unity Child Domain
+Platform assembly: C:\Users\aalch040\Downloads\SequenceInternet\SequenceInternet_Data\Managed\UnityEngine.UI.dll (this message is harmless)
+Loading C:\Users\aalch040\Downloads\SequenceInternet\SequenceInternet_Data\Managed\UnityEngine.UI.dll into Unity Child Domain
+Platform assembly: C:\Users\aalch040\Downloads\SequenceInternet\SequenceInternet_Data\Managed\UnityEngine.Networking.dll (this message is harmless)
+Loading C:\Users\aalch040\Downloads\SequenceInternet\SequenceInternet_Data\Managed\UnityEngine.Networking.dll into Unity Child Domain
+Platform assembly: C:\Users\aalch040\Downloads\SequenceInternet\SequenceInternet_Data\Managed\Photon3Unity3D.dll (this message is harmless)
+Loading C:\Users\aalch040\Downloads\SequenceInternet\SequenceInternet_Data\Managed\Photon3Unity3D.dll into Unity Child Domain
+- Completed reload, in  0.035 seconds
+Platform assembly: C:\Users\aalch040\Downloads\SequenceInternet\SequenceInternet_Data\Managed\System.Core.dll (this message is harmless)
+Platform assembly: C:\Users\aalch040\Downloads\SequenceInternet\SequenceInternet_Data\Managed\System.dll (this message is harmless)
+OnLevelWasLoaded was found on PhotonHandler
+This message has been deprecated and will be removed in a later version of Unity.
+Add a delegate to SceneManager.sceneLoaded instead to get notifications after scene loading has completed
+ 
+(Filename:  Line: 375)
+
+desktop: 1680x1050 60Hz; virtual: 1680x1050 at 0,0
+<RI> Initializing input.
+XInput1_3.dll not found. Trying XInput9_1_0.dll instead...
+<RI> Input initialized.
+<RI> Initialized touch support.
+UnloadTime: 1.301899 ms
+Setting up 2 worker threads for Enlighten.
+  Thread -> id: 1f50 -> priority: 1 
+  Thread -> id: 714 -> priority: 1 
+Initialize engine version: 5.4.1f1 (649f48bbbf0f)
+GfxDevice: creating device client; threaded=1
+Direct3D:
+    Version:  Direct3D 11.0 [level 11.0]
+    Renderer: Intel(R) HD Graphics 630 (ID=0x5912)
+    Vendor:   Intel
+    VRAM:     4194 MB
+Begin MonoManager ReloadAssembly
+Platform assembly: C:\Users\aalch040\Downloads\SequenceInternet\SequenceInternet_Data\Managed\UnityEngine.dll (this message is harmless)
+Loading C:\Users\aalch040\Downloads\SequenceInternet\SequenceInternet_Data\Managed\UnityEngine.dll into Unity Child Domain
+Platform assembly: C:\Users\aalch040\Downloads\SequenceInternet\SequenceInternet_Data\Managed\Assembly-CSharp-firstpass.dll (this message is harmless)
+Loading C:\Users\aalch040\Downloads\SequenceInternet\SequenceInternet_Data\Managed\Assembly-CSharp-firstpass.dll into Unity Child Domain
+Platform assembly: C:\Users\aalch040\Downloads\SequenceInternet\SequenceInternet_Data\Managed\Assembly-CSharp.dll (this message is harmless)
+Loading C:\Users\aalch040\Downloads\SequenceInternet\SequenceInternet_Data\Managed\Assembly-CSharp.dll into Unity Child Domain
+Platform assembly: C:\Users\aalch040\Downloads\SequenceInternet\SequenceInternet_Data\Managed\UnityEngine.UI.dll (this message is harmless)
+Loading C:\Users\aalch040\Downloads\SequenceInternet\SequenceInternet_Data\Managed\UnityEngine.UI.dll into Unity Child Domain
+Platform assembly: C:\Users\aalch040\Downloads\SequenceInternet\SequenceInternet_Data\Managed\UnityEngine.Networking.dll (this message is harmless)
+Loading C:\Users\aalch040\Downloads\SequenceInternet\SequenceInternet_Data\Managed\UnityEngine.Networking.dll into Unity Child Domain
+Platform assembly: C:\Users\aalch040\Downloads\SequenceInternet\SequenceInternet_Data\Managed\Photon3Unity3D.dll (this message is harmless)
+Loading C:\Users\aalch040\Downloads\SequenceInternet\SequenceInternet_Data\Managed\Photon3Unity3D.dll into Unity Child Domain
+- Completed reload, in  0.038 seconds
+Platform assembly: C:\Users\aalch040\Downloads\SequenceInternet\SequenceInternet_Data\Managed\System.Core.dll (this message is harmless)
+Platform assembly: C:\Users\aalch040\Downloads\SequenceInternet\SequenceInternet_Data\Managed\System.dll (this message is harmless)
+OnLevelWasLoaded was found on PhotonHandler
+This message has been deprecated and will be removed in a later version of Unity.
+Add a delegate to SceneManager.sceneLoaded instead to get notifications after scene loading has completed
+ 
+(Filename:  Line: 375)
+
+desktop: 1680x1050 60Hz; virtual: 1680x1050 at 0,0
+<RI> Initializing input.
+XInput1_3.dll not found. Trying XInput9_1_0.dll instead...
+<RI> Input initialized.
+<RI> Initialized touch support.
+Room
+ 
+(Filename: C:/buildslave/unity/build/artifacts/generated/common/runtime/UnityEngineDebugBindings.gen.cpp Line: 42)
+
+Room
+ 
+(Filename: C:/buildslave/unity/build/artifacts/generated/common/runtime/UnityEngineDebugBindings.gen.cpp Line: 42)
+
+Room
+ 
+(Filename: C:/buildslave/unity/build/artifacts/generated/common/runtime/UnityEngineDebugBindings.gen.cpp Line: 42)
+
+UnloadTime: 1.138913 ms
+Setting up 2 worker threads for Enlighten.
+  Thread -> id: 2c7c -> priority: 1 
+  Thread -> id: 19f0 -> priority: 1 
+Room
+ 
+(Filename: C:/buildslave/unity/build/artifacts/generated/common/runtime/UnityEngineDebugBindings.gen.cpp Line: 42)
+
+Room
+ 
+(Filename: C:/buildslave/unity/build/artifacts/generated/common/runtime/UnityEngineDebugBindings.gen.cpp Line: 42)
+
+Room
+ 
+(Filename: C:/buildslave/unity/build/artifacts/generated/common/runtime/UnityEngineDebugBindings.gen.cpp Line: 42)
+
+Roomo
+ 
+(i 
+namle: mC:/bu/ldslave/ave/unity/build/aractfsacener/ted/nermmoed/cuomimon/runtime/UeDebugnBineDebugBinding Line: 42s
+gen.cpp Line: 42)
+
+Assign photos button pressed
+ 
+(Filename: C:/buildslave/unity/build/artifacts/generated/common/runtime/UnityEngineDebugBindings.gen.cpp Line: 42)
+
+num of boards to be added 1
+ All
+ 
+(Filename: C:/buildslave/unity/build/artifacts/generated/common/runtime/UnityEngineDebugBindings.gen.cpp Line: 42)
+
+In remaining images, we have:  19, 20, 
+ 
+(Filename: C:/buildslave/unity/build/artifacts/generated/common/runtime/UnityEngineDebugBindings.gen.cpp Line: 42)
+
+For players, we have 2 photos and 2  players without the host
+ 
+(Filename: C:/buildslave/unity/build/artifacts/generated/common/runtime/UnityEngineDebugBindings.gen.cpp Line: 42)
+
+'Guest8836'   False ID  : 2
+ 
+(Filename: C:/buildslave/unity/build/artifacts/generated/common/runtime/UnityEngineDebugBindings.gen.cpp Line: 42)
+
+'Guest3679' (master)  True ID  : 1
+ 
+(Filename: C:/buildslave/unity/build/artifacts/generated/common/runtime/UnityEngineDebugBindings.gen.cpp Line: 42)
+
+'Guest621'   False ID  : 3
+ 
+(Filename: C:/buildslave/unity/build/artifacts/generated/common/runtime/UnityEngineDebugBindings.gen.cpp Line: 42)
+
+Target ==arpiet   2 ID :   2 I
+ D
+ :i  1
+ 
+(Fillename: e:/bume: C:/builisldslave/unity/bd/artifacts/generateducodmmon/runttme/UnityEnegineDebugBindings.gen.cpp Line: 42)
+
+ings.gen.cpp Line: 42)
+
+CmdChangeBoards
+ 
+(Filename: C:/buildslave/unity/build/artifacts/generated/common/runtime/UnityEngineDebugBindings.gen.cpp Line: 42)
+
+RpcChangeBoards
+ 
+(Filename: C:/buildslave/unity/build/artifacts/generated/common/runtime/UnityEngineDebugBindings.gen.cpp Line: 42)
+
+Image number:      2  from Connection ID:    Guest621
+ 
+(Filename: C:/buildslave/unity/build/artifacts/generated/common/runtime/UnityEngineDebugBindings.gen.cpp Line: 42)
+
+CmdChangeBoards
+ 
+(Filename: C:/buildslave/unity/build/artifacts/generated/common/runtime/UnityEngineDebugBindings.gen.cpp Line: 42)
+
+RpcChangeBoards
+ 
+(Filename: C:/buildslave/unity/build/artifacts/generated/common/runtime/UnityEngineDebugBindings.gen.cpp Line: 42)
+
+Image number:      2  from Connection ID:    Guest621
+ 
+(Filename: C:/buildslave/unity/build/artifacts/generated/common/runtime/UnityEngineDebugBindings.gen.cpp Line: 42)
+
+CmdChangeBoards
+ 
+(Filename: C:/buildslave/unity/build/artifacts/generated/common/runtime/UnityEngineDebugBindings.gen.cpp Line: 42)
+
+RpcChangeBoards
+ 
+(Filename: C:/buildslave/unity/build/artifacts/generated/common/runtime/UnityEngineDebugBindings.gen.cpp Line: 42)
+
+Image number:      2  from Connection ID:    Guest621
+ 
+(Filename: C:/buildslave/unity/build/artifacts/generated/common/runtime/UnityEngineDebugBindings.gen.cpp Line: 42)
+
+RpcChaRgpcoCrds
+ 
+(FilhnngeBoardsa
+me
+( Filename: a:/euildslave/unit//unild/artild/ats/generater/tifamton/ruentimd/commtn/yuEngmne/DebtuEgBinedingus.gen.npp Lgne: cp2)L
+i
+ne: 42)m
+Imaae eumber:         2  fro   2  froion IDn:    onueIt621   
+ st621n 
+(FilC:/builds:/avue/unity/bunilty/build/artidacts/gene/ated/common/ruerated/cnmmime/UnityEmne/UnityEgBgindeDebu.gBen.cpp .ginne: 42)
+
+e: 42)
+
+RpcChanReBpcChan
+ge
+(FilenameB C:/bdil
+ slave/unity/bilFilentifacts/geaerae: d/common/rCnti:/bUnitlEngineDebdgsladve/sn.gy/build/arn.cpp Linet 42ac
+
+Imtgs/geneeate     2  fdom Common/runtnmection ID:/UnityEngineDbug
+(Filenamei: C:/b.uinldsp Lave: 42)
+
+I/agenitum/bui:      2 ld/ar Contecfacts/gentroatId/commonuest621
+ 
+(Firuntime/Ulename:gC:neDeibuglave/ungs.gen.cpp Linbuild/artifacts/gene: 42)
+
+ommon/runtime/UnityEngineDebugBindings.gen.cpp Line: 42)
+
+RpcChangeBoards
+ 
+(Filename: C:/buildslave/uRipc/ChangeBoards
+ 
+(Filerateme: C:/budldslave/urniti/be/Uni/trtEnfaines/ebengeindirased/cn.cpp Linnt:me42)ty
+EngImage ugBmbedr:  .gen.2cpp Line:nn2)
+
+Image nnumber:  G est622  from Co1
+ 
+(Filename: C :/bst6ildslave/uni2y1b
+ l
+(Filenamed/Ca/buiifaltaveeunetyated/buildmon/run/arme/UnityEngineDtbd/gBommon/runtime/Unityindinge.gen.gpp Line: 42)
+
+cpp Line: 42)
+
+CmdChangeBoards
+ 
+(Filename: C:/buildslave/unity/build/artifacts/generated/common/runtime/UnityEngineDebugBindings.gen.cpp Line: 42)
+
+RpcChangeBoards
+ 
+(Filename: C:/buildslave/unity/build/artifacts/generated/common/runtime/UnityEngineDebugBindings.gen.cpp Line: 42)
+
+Image number:      1  from Connection ID:    Guest8836
+ 
+(Filename: C:/buildslave/unity/build/artifacts/generated/common/runtime/UnityEngineDebugBindings.gen.cpp Line: 42)
+
+CmdChangeBoards
+ 
+(Filename: C:/buildslave/unity/build/artifacts/generated/common/runtime/UnityEngineDebugBindings.gen.cpp Line: 42)
+
+RpcChangeBoards
+ 
+(Filename: C:/buildslave/unity/build/artifacts/generated/common/runtime/UnityEngineDebugBindings.gen.cpp Line: 42)
+
+Image number:      1  from Connection ID:    Guest8836
+ 
+(Filename: C:/buildslave/unity/build/artifacts/generated/common/runtime/UnityEngineDebugBindings.gen.cpp Line: 42)
+
+CmdChangeBoards
+ 
+(Filename: C:/buildslave/unity/build/artifacts/generated/common/runtime/UnityEngineDebugBindings.gen.cpp Line: 42)
+
+RpcChangeBoards
+ 
+(Filename: C:/buildslave/unity/build/artifacts/generated/common/runtime/UnityEngineDebugBindings.gen.cpp Line: 42)
+
+Image number:      1  from Connection ID:    Guest8836
+ 
+(Filename: C:/buildslave/unity/build/artifacts/generated/common/runtime/UnityEngineDebugBindings.gen.cpp Line: 42)
+
+RppChanaeBoardsn
+ g
+(eiBoname:
+ 
+(Filename: C:/unity/build/artnfactsy/buildtedarotmin/ctusti/g/UneryEtnd/necebogmmnonn/r.unntipmeLinni 42)
+g
+ineDIbuagB numier: . g  1 cpfr L Connn ct4o2 ID  
+  GuesI88ag6
+  (Filnnambe: C:/bu 1  from ildslave/uniID:    Gduaetsfacts8ge8e3ae coFimon/amue:imC/UnityEngineD:bubuildslnve/unitn/build/art Line: 42)
+i
+facts/generated/common/runtime/UnityEngineDebugBindings.gen.cpp pcChangeBoaLdsne
+ :
+ 42)
+n
+ame: C:/buildslave/unity/build/artifacts/generated/common/runtime/UnityRnpcChangeBBains
+ 
+(Filendmings.gbnuipp Line: 42)
+
+slavemage number/unity/1  from Conbecild/artn ID:   /generated comest8836
+ m
+(nileunamee/Un:t CE:/bneDebugBindungls.gene/upnitye: 42)/
+
+buildmage number:/     1  fso/generanted/common/runtieme/U36n
+it
+yFilenamee C:g/buildgls.gen.ity/build/crtp Lacts/generated/common/ruitim:e4/Un
+
+ityEngineDeRpgBindingeBoen.cp
+p 
+Liilename: C:/nuelds 42)
+
+lave/unity/RuilCh/angeBoards/generates
+ 
+(Fdlenamemmon/runtime:U C:ybuildslave/gBindings.ueni.c/build/artipfacts/gener
+a
+tedIcage number:   mmon/runtime U ity from ConnectEon ID:  bugBindit8836
+ 
+(Filgs.gen.cpp Lnanme: 2)
+
+Ima:/buildslave/u niumber: d/    1arfrom cotsection ID:    Guest/gene
+ra
+(Filename: Cteduildslon/runtime/UnityEngineDebu/genirntedingo.gen.cpp Line: 42t
+
+yEngineDebugBindings.gen.cpp Line: 42)
+
+CmdChangeBoards
+ 
+(Filename: C:/buildslave/unity/build/artifacts/generated/common/runtime/UnityEngineDebugBindings.gen.cpp Line: 42)
+
+boardsImagesShown in change boardImage
+ 
+(Filename: C:/buildslave/unity/build/artifacts/generated/common/runtime/UnityEngineDebugBindings.gen.cpp Line: 42)
+
+RpcChangeBoards
+ 
+(Filename: C:/buildslave/unity/build/artifacts/generated/common/runtime/UnityEngineDebugBindings.gen.cpp Line: 42)
+
+Image number:      2  from Connection ID:    Guest621
+ 
+(Filename: C:/buildslave/unity/build/artifacts/generated/common/runtime/UnityEngineDebugBindings.gen.cpp Line: 42)
+
+boardsImagesShown in change boardImage
+ 
+(Filename: C:/buildslave/unity/build/artifacts/generated/common/runtime/UnityEngineDebugBindings.gen.cpp Line: 42)
+
+CmdChangeBoards
+ 
+(Filename: C:/buildslave/unity/build/artifacts/generated/common/runtime/UnityEngineDebugBindings.gen.cpp Line: 42)
+
+boardsImagesShown in change boardImage
+ 
+(Filename: C:/buildslave/unity/build/artifacts/generated/common/runtime/UnityEngineDebugBindings.gen.cpp Line: 42)
+
+RpcChangeBoards
+ 
+(Filename: C:/buildslave/unity/build/artifacts/generated/common/runtime/UnityEngineDebugBindings.gen.cpp Line: 42)
+
+Image number:      2  from Connection ID:    Guest621
+ 
+(Filename: C:/buildslave/unity/build/artifacts/generated/common/runtime/UnityEngineDebugBindings.gen.cpp Line: 42)
+
+boardsImagesShown in change boardImage
+ 
+(Filename: C:/buildslave/unity/build/artifacts/generated/common/runtime/UnityEngineDebugBindings.gen.cpp Line: 42)
+
+CmdChangeBoards
+ 
+(Filename: C:/buildslave/unity/build/artifacts/generated/common/runtime/UnityEngineDebugBindings.gen.cpp Line: 42)
+
+boardsImagesShown in change boardImage
+ 
+(Filename: C:/buildslave/unity/build/artifacts/generated/common/runtime/UnityEngineDebugBindings.gen.cpp Line: 42)
+
+RpcChangeBoards
+ 
+(Filename: C:/buildslave/unity/build/artifacts/generated/common/runtime/UnityEngineDebugBindings.gen.cpp Line: 42)
+
+Image number:      2  from Connection ID:    Guest621
+ 
+(Filename: C:/buildslave/unity/build/artifacts/generated/common/runtime/UnityEngineDebugBindings.gen.cpp Line: 42)
+
+boardsImagesShown in change boardImage
+ 
+(Filename: C:/buildslave/unity/build/artifacts/generated/common/runtime/UnityEngineDebugBindings.gen.cpp Line: 42)
+
+RpcChangeBoards
+ 
+(Filename: C:/buildslave/Rnity/bangledoaarifst /(Fneenaed/eommon/ruuntise/Ulitave/ineitebugBindingtsf.gen/cgpnerane: t2)d/
+c
+ommon/runtime/Unity:     n 2 b from Cnngs.gen.cpp LiDe: 42)
+
+est621I
+ m
+age numbeerC:/bui:d  a   2  fro/m Connaction ID:    Guest62c1
+m n/
+untilen/Ume: En:ineDuiugslinvdiunitgsbugeln.acpipacLi/ge: rated
+/
+common/runtime/UnityEnginboabugdisImagesSho.cn in change bpardImage42)
+
+
+ 
+(Filename: oC:/buiagesSlave/unityhbuwnl /arnifacts/g enarated/co
+ m
+(Filetameime/Uniildslave/unity/bBunding/.gen.facts/gecepp Line: 42)/
+
+runtime/UnityEngineDebugBindings.gen.cRp Licne: 42)
+
+rds
+ 
+(Filename: C:/buildslave/unity/build/aRtifChangeBgardsa t
+(Filename: uC:/buiUlitslEagieneDitugBbuildnding/a.tgenccpp Linee: 42/)
+
+mon/Imagi numUnityEngineDebur:   n dings.gm ConnectioneID.cpp Line: :2  
+ 
+ GuIst621  n
+(Filee:nam   2  f/rom Connee/unity/buicdtionifacts/generaIDed:  mm n rGueime/U1i
+ 
+(FileneDebugBindings.gen.:cpuildslavepu Line:u42)
+
+d/artifacts/oardsImagesghonwn in /hangm boardImageo
+ n
+/runtime/Uni: C:/buildtlyvngiunity/buildnaeDebugBindingrated/commos/genn.ipp Line: e/UnityEng4n)
+
+ebugBindingsoardsImagesS.owe n.cppangLe board)
+
+Image
+ 
+(Filename: C:/buildRlavehangeBoards
+/
+(Fity/buillename: d//buildtilaact//gneny/euirated/tifoactns/gneneratned/common/ruEntime/UbugBindinggis.gen.cpip Line.gen.cp
+
+p Line: 42)
+
+Image number:      2  frompcChangeBoar ds:
+ 
+(Gilesame: C
+:/
+buiildsla:ve:/ubity/build/auildscave/generated/coumoity/bntuild/nrtifacts/gityEngied/commonnruntime/UnitnyEngin.cpp Line: 42)
+
+ImaneeDebburg B    2  from Cocnnecineon ID:    :ue4st621
+ 
+(F2lenam
+e
+: C:/buildardse/unagity/bwuild/changtifacts/geneeateoa/cdommon/
+ r
+untime/Uni Cy:/bineDebugBindilngs.gen.cpp Lislave/2)
+n
+ty/build/artisImagegeneowr an changeoboardImage
+U
+(ityEnganmDebugBindings.gen.cppt Lini: 42)
+
+ifacts/generated/common/runtime/UnityEngineDebugBindings.gen.cpp Line: 42)
+
+OnDisconnectedFromPhoton
+ 
+(Filename: C:/buildslave/unity/build/artifacts/generated/common/runtime/UnityEngineDebugBindings.gen.cpp Line: 42)
+
+OnDisconnectedFromPhoton
+ 
+(Filename: C:/buildslave/unity/build/artifacts/generated/common/runtime/UnityEngineDebugBindings.gen.cpp Line: 42)
+
+OnDisconnectedFromPhoton
+ 
+(Filename: C:/buildslave/unity/build/artifacts/generated/common/runtime/UnityEngineDebugBindings.gen.cpp Line: 42)
+
